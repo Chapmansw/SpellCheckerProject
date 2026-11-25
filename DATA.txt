@@ -1,0 +1,13 @@
+Wikipedia.zip contains a text file from Simple English Wikipedia, pulled from Kaggle: https://www.kaggle.com/datasets/ffatty/plain-text-wikipedia-simpleenglish
+
+Format is
+
+article title
+article text
+[blank line]
+article title
+...
+
+
+
+A larger chunk of Wikipedia can be found at https://www.kaggle.com/datasets/ffatty/plaintext-wikipedia-full-english
